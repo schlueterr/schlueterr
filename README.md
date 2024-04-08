@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @schlueterr
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... C++, Python
-- 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... solar.schlueter@gmail.com
 - 🧾 LinkedIn ... https://www.linkedin.com/in/bradenjschlueter/
 
